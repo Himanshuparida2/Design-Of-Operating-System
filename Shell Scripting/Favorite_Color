@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Enter Your Favorite Color: "
+read
+echo "Your Favorite Color is $REPLY"
